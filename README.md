@@ -1,5 +1,4 @@
-<h2 align="center">Hi there, I'm Elena 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm +Elena)](https://git.io/typing-svg)
 
 <!--
 **ElenaBelavina/ElenaBelavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
